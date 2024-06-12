@@ -13,7 +13,7 @@ Furthermore, normalization facilitates the integration and comparison of data fr
 <img src='images/comparison_PanCK_norm_met.png'>
 
 ## Methods and Resources
-|Method|	Paper/Resource	|Platform	|Example Code|
+|Method|	Paper/Resource	|Previously Applied to	|Example Code|
 |------|------------------|----------|------------|
 |arcsinh transformation	| [Flow cytometry Paper](https://onlinelibrary.wiley.com/doi/10.1002/cyto.a.24491) <br />	[IMC Paper](https://onlinelibrary.wiley.com/doi/10.1002/cyto.a.24803)  <br />[MIBI Paper](https://www.sciencedirect.com/science/article/pii/S0092867418311000?via%3Dihub) <br /> [testing co-factors: Option 1](https://academic.oup.com/jrsssb/article-abstract/3/1/68/7026428?redirectedFrom=fulltext&login=true)|	CODEX, Flow cytometry, IMC, MIBI	| [Code](norm_methods.ipynb)|
 |Centered log-ratio based normalization|		|CODEX, CITE-seq|	[Seurat code](https://satijalab.org/seurat/articles/seurat5_spatial_vignette_2)|
