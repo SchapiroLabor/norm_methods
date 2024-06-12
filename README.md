@@ -35,6 +35,8 @@ Furthermore, normalization facilitates the integration and comparison of data fr
 
 **IMC end to end workflow:** https://www.nature.com/articles/s41596-023-00881-0
 
+
+-------------------------------------------------------------------------------------
 Feel free to explore the provided resources and example codes to implement these normalization methods in your projects.
 
 If you want to add more methods, please open an issue in this repository.
